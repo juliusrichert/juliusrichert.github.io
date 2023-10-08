@@ -1,0 +1,39 @@
+baseURL = 'https://juliusrichert.de'
+languageCode = 'de-de'
+defaultContentLanguage = 'de'
+title = 'Julius Richert'
+theme = 'stip'
+
+[Author]
+    name = "Julius Richert"
+    bio = "Student an der Universität Rostock"
+
+[params]
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://instagram.com/julius_705"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/julius_r"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:mail@juliusrichert.de"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/julius-richert-5a195a242/"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/juliusrichert"
+
+        
+    #[[params.color]]
+    #    background = "#d8dee9"
+    #    circle = "#8fbcbb"
+    #    foreground = "#5e81ac"
+    #    hover = "#81a1c1"
